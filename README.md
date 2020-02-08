@@ -1,2 +1,3 @@
 # Deep_Learning
- Deep learning exercises
+ Deep learning exercises<br>
+MNIS handwritten digits
